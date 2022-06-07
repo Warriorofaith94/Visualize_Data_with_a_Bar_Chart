@@ -1,11 +1,9 @@
 # Visualize_Data_with_a_Bar_Chart
 
-Visualize Data Bar Chart
+This project is a Visualize Data Bar Chart
 
-This is my first page for my web portfolio
-
-You can see this project at the follow URL:
+You can see this web project on the following link:
 
 
 
-Enjoy!
+Enjoy !
