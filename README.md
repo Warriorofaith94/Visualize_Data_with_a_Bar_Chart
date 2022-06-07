@@ -1,6 +1,6 @@
 # Visualize_Data_with_a_Bar_Chart
 
-A Big Daddy Weave Tribute Page
+Visualize Data Bar Chart
 
 This is my first page for my web portfolio
 
